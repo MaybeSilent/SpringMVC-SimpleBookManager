@@ -28,8 +28,25 @@
   - 实现数据库的增删改查功能位于bookmana/src/main/java/bookImpl，通过相应的sql语句
 
 - 查询书籍结果展示
+
 - ![Alt text](/readmepictrues/quary.png)
+
 - 增加书籍结果页面展示
+
+- ![Alt text](/readmepictrues/insertbefore.png)
+
+- ![Alt text](/readmepictrues/insertafter.png)
+
 - 更改价格结果页面展示
+
+- ![Alt text](/readmepictrues/changebefore.png)
+
+- ![Alt text](/readmepictrues/changeafter.png)
+
 - 删除书籍结果页面展示
+
+- ![Alt text](/readmepictrues/deletebefore.png)
+
+- ![Alt text](/readmepictrues/deleteafter.png)
+
 - 前端页面来源于[html5UP](https://html5up.net/)
